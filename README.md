@@ -4,8 +4,8 @@
 >> 以下是 必填 字段，可以自定义字段的描述
 ```
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
+    "title":"网站标题",
+    "displayTitle":"Title",
     "subTitle":"描述而已",
     "homeUrl":"http://xxx.com",
     "avatarUrl":"http://xxx/images/avatar.jpg",
