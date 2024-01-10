@@ -1,0 +1,22 @@
+{
+    "title":"iocoder",
+    "displayTitle":"iocoder",
+    "subTitle":"靠运气赢来的东西，往往因为实力输掉。",
+    "homeUrl":"https://iocoderr.github.io",
+    "avatarUrl":"https://raw.githubusercontent.com/iocoderr/iocoderr.github.io/main/images/avatar.jpg",
+    "faviconUrl":"https://raw.githubusercontent.com/iocoderr/iocoderr.github.io/main/images/favicon.ico",
+    "singlePage":[],
+    "VERSION":"last",
+    "email":"849656290@qq.com",
+    "startSite":"01/09/2024",
+    "filingNum":"京ICP备17028656号-2",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "style":"",
+    "script":""
+}
